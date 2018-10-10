@@ -1,3 +1,3 @@
-# gerardo-cardona-github.io
+# gerardo-cardona.github.io
 
 webpage
