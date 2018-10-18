@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		  <link rel="stylesheet" href="/css/main.css" type="text/css" />
+     <title>{{ page.title }}</title>
+
+</head>
+
+<body>
+
+    <div id="page-wrap">
+    
+        
+    
+        <div id="contact-info" class="vcard">
+        
+            <!-- Microformats! -->
+        
+            <h1 class="fn">Gerardo Cardona</h1>
+        
+            
+        </div>
+                
+         <div id="objective">
+            <p>
+               Born 21/02/1990, Mexican
+            </p>
+        </div>
+        
+        <div class="clear"></div>
+        
+        <dl>
+            <dd class="clear"></dd>
+            
+            <dt>Education</dt>
+            <dd>
+                <h2>Phd candidate, Applied Mathematics, École des Mines de Paris- Université Paris Sciences et Lettres  <span>Paris, France - 2016 - Present</span></h2>
+                <ul>
+                    <li>Advisors: Pierre Rouchon and Alain Sarlette</li>                
+                </ul>
+                
+                <h2>MSc, Systems and Control, CINVESTAV - Instituto Politécnico Nacional  <span>Mexico City, Mexico - 2014 - 2016</span></h2>
+                <ul>
+                    <li>Advisor: Jorge A. León</li>                
+               
+                </ul> 
+            </dd>
+            <dd class="clear"></dd>
+            
+            <dt>Skills</dt>
+            <dd>
+                <h2>Office skills</h2>
+                <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
+                
+                <h2>Computer skills</h2>
+                <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
+            </dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>Experience</dt>
+            <dd>
+                <h2>Research Assistant, Inria Paris <span>Paris, France. 2016-Present</span></h2>
+                <ul>
+                    <li>QUANTIC Group</li>
+                </ul>
+                <h2>Visiting PhD student, Institut Henri Poincaré<span>Paris, France. April-July 2018</span></h2>
+                <ul>
+                    <li>Trimester on quantum measurement and control</li>
+                </ul>
+                 <h2>Software Engineer, Nuxiba Technologies <span>Mexico City, Mexico - 2012-2014</span></h2>
+                
+                
+            </dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>Extra information</dt>
+            <dd>Languages: Spanish (native), French (fluent), English (fluent), Japanese (basic skills), Italian (in progress)</dd>
+            
+            <dd class="clear"></dd>
+            
+            <dt>References</dt>
+            <dd>Available on request</dd>
+            
+            <dd class="clear"></dd>
+        </dl>
+        
+        <div class="clear"></div>
+    
+    </div>
+
+</body>
+
+</html>
